@@ -4,8 +4,9 @@ A modern support ticket management dashboard built with the MERN stack. Inspired
 
 ## 🌐 Live Links
 
-- **Frontend (Netlify):** _Available after deployment_
-- **Backend (Render):** _Add your Render URL here_
+- **Frontend (Netlify):** https://deskflow-bajaj-kris743.netlify.app
+- **Backend (Render):** https://deskflow-backend-ehc0.onrender.com
+- **Postman Collection:** [DeskFlow API](https://www.postman.com/collections/a62c2226-db15-46f0-bfd7-4528ab60cd39)
 
 ---
 
