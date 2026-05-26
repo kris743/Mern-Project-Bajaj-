@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: deskflow-backend
+    name: deskflow-kris734-backend
     runtime: node
     region: oregon
     rootDir: backend
